@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicMediaDecoder.iml" filepath="$PROJECT_DIR$/BasicMediaDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicMediaDecoderSample/BasicMediaDecoderSample.iml" filepath="$PROJECT_DIR$/BasicMediaDecoderSample/BasicMediaDecoderSample.iml" />
+    </modules>
+  </component>
+</project>
+
